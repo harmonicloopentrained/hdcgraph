@@ -1,0 +1,5 @@
+Rust HDC Graph for Claude Code
+
+Copyright (c) 2026 Dylan Henry.
+
+This repository packages Dylan Henry's Rust/WGSL HDC graph-first code navigation workflow as a Claude Code marketplace/plugin repository. Public redistributions should preserve this NOTICE, the LICENSE, and the author metadata in the Claude marketplace and plugin manifests.

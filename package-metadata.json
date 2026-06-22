@@ -1,0 +1,15 @@
+{
+  "name": "rust-hdc-graph-claude",
+  "version": "1.0.0",
+  "description": "Claude Code marketplace repository for the Rust HDC Graph plugin.",
+  "creator": "Dylan Henry",
+  "github_owner_placeholder": "YOUR_GITHUB",
+  "claude_marketplace_manifest": ".claude-plugin/marketplace.json",
+  "claude_plugin_manifest": "plugins/rust-hdc-graph/.claude-plugin/plugin.json",
+  "codex_status": "Claude-first; ask Codex to convert before Codex installation.",
+  "platform": [
+    "Windows",
+    "PowerShell"
+  ],
+  "license": "MIT"
+}

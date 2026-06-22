@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Rust HDC Graph for Claude Code
+message: If you use this plugin or adapt it, please cite it as below.
+type: software
+authors:
+  - family-names: Henry
+    given-names: Dylan
+version: 1.0.0
+date-released: 2026-06-22
+license: MIT
+repository-code: https://github.com/YOUR_GITHUB/rust-hdc-graph-claude
+url: https://github.com/YOUR_GITHUB/rust-hdc-graph-claude
+abstract: Claude Code plugin for graph-first Rust/WGSL codebase navigation using a project-local HDC graph pack.
+keywords:
+  - Claude Code
+  - Rust
+  - WGSL
+  - HDC
+  - code navigation

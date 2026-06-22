@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Rust
+/target/
+**/target/
+
+# Claude / local runtime state
+.claude/settings.local.json
+
+# Generated graph state in consumer projects
+.codex/rust-hdc-graph/graph.json
+.codex/rust-hdc-graph/*.jsonl
+.codex/rust-hdc-graph/cache/
+
+# Archives
+*.zip
+*.tar.gz
